@@ -1,0 +1,9 @@
+What is a resource group and why do we need it
+
+What is the virtual network and why do we need it (how does it tie to resource group)
+
+What is the subnet and why do we need it and how does it tie to the virtual network
+
+What is a storage account and why do we need it and how does it tie to a network interface (why is it needed in a VM)
+
+What is a storage container (why do we need it and how does is it used the machine)`
